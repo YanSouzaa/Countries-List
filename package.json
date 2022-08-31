@@ -1,0 +1,16 @@
+{
+  "name": "desafiotunts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "excel4node": "^1.8.0"
+  }
+}
